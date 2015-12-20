@@ -1,0 +1,3 @@
+*.pyc
+*.pyo
+client_secret.json
